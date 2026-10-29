@@ -1,0 +1,26 @@
+[
+  {
+    "path": "Data_source_and_script/01_action_pattern_calibration/HH_data_0-3000.csv",
+    "bytes": 66330361
+  },
+  {
+    "path": "Data_source_and_script/01_action_pattern_calibration/action_phase_set_original.npy",
+    "bytes": 39072867
+  },
+  {
+    "path": "Data_source_and_script/01_action_pattern_calibration/action_phases_list.npy",
+    "bytes": 19311027
+  },
+  {
+    "path": "Data_source_and_script/01_action_pattern_calibration/all_action_phases.npy",
+    "bytes": 21043804
+  },
+  {
+    "path": "Data_source_and_script/02_action_pattern_classification/labeled_data.json",
+    "bytes": 45436798
+  },
+  {
+    "path": "Data_source_and_script/02_action_pattern_classification/trainHH_data.csv",
+    "bytes": 792788085
+  }
+]
